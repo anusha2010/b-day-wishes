@@ -1,0 +1,18 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#mycanvas
+{
+   border-width: 10px;
+   background-color: white;
+  border-style:groove;
+  border-color: darkblue;
+
+}
+.btn{
+    height: 50px;
+    width: 200px;
+}
